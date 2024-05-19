@@ -31,5 +31,5 @@ c. Application Benefits
 4. Peningkatan kualitas hidup, dengan tugas yang terselesaikan dengan baik, pengguna dapat terhindar dari kecemasan dan pengerjaan tugas yang tergesa-gesa
 
 ## System Planning
-    a. Entity Relationship Diagram (ERD)	
-    
+a. Entity Relationship Diagram (ERD)	
+![Logo ArtiVisi](resources/logo-artivisi.png)
