@@ -1,6 +1,5 @@
 # ReminderPlus
 ## Introduction	
- 1 list 1
     a. Project Title		
     ReminderPlus (APLIKASI PENGINGAT TUGAS HARIAN )			
     b. Short Description		
