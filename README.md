@@ -53,12 +53,41 @@ b. UML Design
 4. Aplikasi akan mengingatkan user tentang tugas yang telah dibuat pengingatnya
 
 * Class Diagram:
-![Gambar teks editor VS Code](https://www.petanikode.com/img/markdown/markdown-vscode.png)
+
 
 d. UI Design (Figma)
  							
 https://www.figma.com/file/Z9fVfkyRE5viy6vS9dqWgW/Pengingat-Tugas%2FUAS-PAM-9?type=design&node-id=80%3A12&mode=design&t=24J69PD0ncwm8BiH-1
 
+Application Development Stage
+ 							
+a. Implementation Stage
+ 							
+Pengemabangan aplikasi ini menggunakan metode Agile.Metode Agile cocok untuk pengembangan aplikasi pengingat tugas karena fleksibilitasnya dalam menyesuaikan diri dengan perubahan kebutuhan pengguna, peningkatan transparansi dan fokus pada nilai pelanggan, pengiriman bertahap yang memungkinkan identifikasi masalah lebih awal, keterlibatan pengguna yang memastikan solusi yang sesuai, peningkatan kualitas melalui pengujian berkelanjutan, kemampuan untuk mengatasi kompleksitas pengembangan, serta responsivitas yang lebih tinggi terhadap umpan balik pengguna.
+ 							
+b. Time Plan
+ 							
+[Add a table or list with time estimates for each stage] 
+Berikut adalah contoh timeline pengerjaan untuk proyek pembuatan aplikasi pengingat tugas harian:
+
+1. **Tahap Perencanaan (1 minggu)**
+   - Hari 1-2: Identifikasi kebutuhan pengguna dan tujuan aplikasi.
+   - Hari 3-4: Riset pasar dan analisis kompetitor.
+   - Hari 5-6: Perencanaan desain aplikasi dan fitur utama.
+   - Hari 7: Finalisasi rencana proyek dan pembagian tugas.
+
+2. **Tahap Desain (1 minggu)**
+   - Hari 8-9: Pembuatan wireframe dan storyboard.
+   - Hari 10-11: Desain antarmuka pengguna (UI) dan pengalaman pengguna (UX).
+   - Hari 12-13: Pembuatan desain ikon dan grafis.
+   - Hari 14: Review desain dengan tim dan klien, revisi jika diperlukan.
+
+3. **Tahap Pengembangan (2 minggu)**
+   - Hari 15-18: Pengembangan frontend aplikasi.
+   - Hari 19-22: Pengembangan backend dan integrasi database.
+   - Hari 23-25: Implementasi fitur pengingat tugas harian.
+   - Hari 26-27: Pengujian fungsionalitas dan debug aplikasi.
+   - Hari 28: Persiapan untuk peluncuran aplikasi.
 
 
 
