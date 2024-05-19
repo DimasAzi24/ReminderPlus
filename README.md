@@ -32,4 +32,34 @@ c. Application Benefits
 
 ## System Planning
 a. Entity Relationship Diagram (ERD)	
-![Logo ArtiVisi](Screenshot (246).png)
+*Tabel Pengguna menyimpan informasi tentang pengguna, termasuk jumlah tugas yang selesai, tertunda, dan belum dikerjakan.
+*Tabel Tugas berisi detail setiap tugas, termasuk nama tugas, status (selesai, tertunda, atau belum dikerjakan), waktu deadline, dan kunci asing ID_pengguna yang menghubungkannya dengan pengguna yang bertanggung jawab atas tugas tersebut.
+*Tabel Kalender digunakan untuk menghubungkan tanggal deadline tugas dengan tugas tertentu melalui kunci asing ID_tugas.
+
+b. UML Design
+* Activity Diagram: 
+1. Start: Diagram dimulai dari sini.
+2. Add Task: Pengguna memulai dengan menambahkan tugas atau kegiatan harian beserta detailnya seperti judul, tanggal, dan waktu.
+3. Set Notification: Pengguna mengatur notifikasi untuk tugas atau kegiatan yang telah ditambahkan.
+4. Set Priority: Pengguna memilih untuk menandai prioritas tugas atau kegiatan (tinggi, sedang, rendah).
+5. Group Task: Pengguna mengelompokkan tugas atau kegiatan dalam kategori tertentu, seperti pekerjaan, pribadi, belanja, dll.
+6. Mark as Done: Ketika sebuah kegiatan atau tugas selesai, pengguna menandainya sebagai selesai.
+7. End: Diagram berakhir di sini.
+
+* Sequence Diagram:
+1. User/Actor masuk kedalam aplikasi lalu user dapat membuat pengingat tugas baru ataupun melihat tugas yang telah dibuat pada aplikasi.
+2. Setelah user membuat pengingat tugas baru maka akan di simpan ke dalam database.
+3. Database akan memberikan tugas yang telah dibuat pengingat dan akan menamplikan pengingat yang dibuat di aplikasi
+4. Aplikasi akan mengingatkan user tentang tugas yang telah dibuat pengingatnya
+
+* Class Diagram:
+![Gambar teks editor VS Code](https://www.petanikode.com/img/markdown/markdown-vscode.png)
+
+d. UI Design (Figma)
+ 							
+https://www.figma.com/file/Z9fVfkyRE5viy6vS9dqWgW/Pengingat-Tugas%2FUAS-PAM-9?type=design&node-id=80%3A12&mode=design&t=24J69PD0ncwm8BiH-1
+
+
+
+
+
