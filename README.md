@@ -32,4 +32,4 @@ c. Application Benefits
 
 ## System Planning
 a. Entity Relationship Diagram (ERD)	
-![Logo ArtiVisi](resources/logo-artivisi.png)
+![Logo ArtiVisi](Screenshot (246).png)
