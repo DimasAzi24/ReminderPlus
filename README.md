@@ -1,6 +1,6 @@
 # ReminderPlus
 ## Introduction	
-<p>
+ 1 list 1
     a. Project Title		
     ReminderPlus (APLIKASI PENGINGAT TUGAS HARIAN )			
     b. Short Description		
@@ -11,7 +11,7 @@
     Andrean Syahrezi_121140169
     Daniel Dianutama Barus_121140180
     Arof Andestama_121140182
-</p>
+
 ## Proposed Application						
     a. Application Description						
     ReminderPlus adalah sebuah aplikasi pengingat tugas harian yang dirancang untuk membantu pengguna dalam mengatur dan melacak aktivitas sehari-hari dengan lebih efisien. Dengan fitur-fitur dasarnya, pengguna dapat dengan mudah menambahkan, mengelola, dan mengatur notifikasi untuk setiap tugas atau kegiatan yang mereka inginkan.Dengan ReminderPlus, pengguna dapat meningkatkan efisiensi dan produktivitas dalam mengelola tugas-tugas harian mereka. Aplikasi ini tidak hanya berfungsi sebagai pengingat sederhana, tetapi juga sebagai alat yang membantu dalam mengatur waktu dan prioritas.
