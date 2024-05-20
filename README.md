@@ -1,7 +1,8 @@
 # ReminderPlus
 ## Introduction	
 a. Project Title		
-* ReminderPlus (APLIKASI PENGINGAT TUGAS HARIAN )	
+* ReminderPlus (APLIKASI PENGINGAT TUGAS HARIAN )
+  ![ssan](Screenshot (246).png
 
 b. Short Description		
 * ReminderPlus adalah aplikasi sederhana yang bertujuan membantu pengguna dalam mencatat dan mengingat tugas atau kegiatan harian mereka.	
