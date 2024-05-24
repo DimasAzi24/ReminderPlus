@@ -90,6 +90,10 @@ Berikut adalah contoh timeline pengerjaan untuk proyek pembuatan aplikasi pengin
    - Hari 26-27: Pengujian fungsionalitas dan debug aplikasi.
    - Hari 28: Persiapan untuk peluncuran aplikasi.
 
+c. Akun
+Akun yang sudah terdaftar : admin@gmail.com (12345678)
+
+
 
 
 
