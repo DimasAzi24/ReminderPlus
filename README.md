@@ -32,13 +32,17 @@ c. Application Benefits
 4. Peningkatan kualitas hidup, dengan tugas yang terselesaikan dengan baik, pengguna dapat terhindar dari kecemasan dan pengerjaan tugas yang tergesa-gesa
 
 ## System Planning
-a. Entity Relationship Diagram (ERD)	
+a. Entity Relationship Diagram (ERD)
+![image](https://github.com/DimasAzi24/ReminderPlus/assets/116379245/9f11cc99-e896-4499-9a1f-429734de4919)
+
 *Tabel Pengguna menyimpan informasi tentang pengguna, termasuk jumlah tugas yang selesai, tertunda, dan belum dikerjakan.
 *Tabel Tugas berisi detail setiap tugas, termasuk nama tugas, status (selesai, tertunda, atau belum dikerjakan), waktu deadline, dan kunci asing ID_pengguna yang menghubungkannya dengan pengguna yang bertanggung jawab atas tugas tersebut.
 *Tabel Kalender digunakan untuk menghubungkan tanggal deadline tugas dengan tugas tertentu melalui kunci asing ID_tugas.
 
 b. UML Design
-* Activity Diagram: 
+* Activity Diagram:
+![image](https://github.com/DimasAzi24/ReminderPlus/assets/116379245/f35b26a1-e16c-4624-9cbe-b2a0bf0d13a7)
+ 
 1. Start: Diagram dimulai dari sini.
 2. Add Task: Pengguna memulai dengan menambahkan tugas atau kegiatan harian beserta detailnya seperti judul, tanggal, dan waktu.
 3. Set Notification: Pengguna mengatur notifikasi untuk tugas atau kegiatan yang telah ditambahkan.
@@ -48,12 +52,15 @@ b. UML Design
 7. End: Diagram berakhir di sini.
 
 * Sequence Diagram:
+![image](https://github.com/DimasAzi24/ReminderPlus/assets/116379245/6ed51ff1-57a1-4117-a3ad-e827eb129145)
+
 1. User/Actor masuk kedalam aplikasi lalu user dapat membuat pengingat tugas baru ataupun melihat tugas yang telah dibuat pada aplikasi.
 2. Setelah user membuat pengingat tugas baru maka akan di simpan ke dalam database.
 3. Database akan memberikan tugas yang telah dibuat pengingat dan akan menamplikan pengingat yang dibuat di aplikasi
 4. Aplikasi akan mengingatkan user tentang tugas yang telah dibuat pengingatnya
 
 * Class Diagram:
+![image](https://github.com/DimasAzi24/ReminderPlus/assets/116379245/52614b98-63f5-4d97-b69a-98b8289686ab)
 
 
 d. UI Design (Figma)
